@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "*.tcc": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "streambuf": "cpp",
+        "algorithm.h": "c",
+        "string.h": "c",
+        "debug.h": "c",
+        "crtdefs.h": "c",
+        "_mingw_print_push.h": "c",
+        "iostream": "cpp"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/build":true,
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/build":true,
+    },
+}
